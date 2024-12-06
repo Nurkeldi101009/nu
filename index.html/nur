@@ -1,0 +1,3 @@
+<h1>Привет, мир!</h1>
+<p>Это мой сайт с использыванием HTML,CSS и JavaScript.</p>
+<button onclick="alert(" Привет!")">Нажми меня!</button>
